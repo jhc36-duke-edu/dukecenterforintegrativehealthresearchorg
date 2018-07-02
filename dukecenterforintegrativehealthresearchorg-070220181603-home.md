@@ -163,7 +163,7 @@ _Note: Onscreen keyboard shown to demonstrate the tab and shift key being used._
 
 #### Suggested solution:
 
-This is another easy. Add the following CSS where ever it makes sense to you:
+This is another easy fix. Add the following CSS wherever it makes sense to you:
 
 ```css
 .st-menu {
