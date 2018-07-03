@@ -45,7 +45,7 @@ If new content, such as a dialog, is added to the page, the user&#39;s focus is 
 
 Currently, the search functionality is innaccessible to keyboard-only users as well as most screen reader users. Search is very important to people with sensory imparements as it can be used to find content quickly. Fixing this will be a big win, and is only a couple of lines of cut-paste.
 
-Hiding he outline causes elements to not be keyboard accessibile. If they cannot see the focus outline they do not know where the focus is.
+Hiding the outline causes elements to not be keyboard accessibile. If they cannot see the focus outline they do not know where the focus is.
 
 Comment out all `outline: none` instances in the modal css, and everywhere else. 
 
